@@ -1,2 +1,2 @@
 # ATCMAC
-This is a repository of ATCMAc website
+This is a repository of ACTMAc website
